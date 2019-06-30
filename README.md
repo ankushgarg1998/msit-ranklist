@@ -3,16 +3,16 @@
 ![Website msitraklis.surge.sh](https://img.shields.io/website-up-down-green-red/https/msitranklist.surge.sh.svg)
 ![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)
 
-📉 The MSIT Ranklist for Fall'18 Results. 🎉 Got viral in MSIT, recieved 10,000+ hits.
+📉 The MSIT Ranklist for Fall'18 Results. 🎉 Got viral in MSIT, recieved 11,000+ hits.
 
 
 ## Why a ranklist app?
-So the idea is simple. We recieve our semester-wise results in the form of a pdf looks like this:
+So the idea is simple. We recieve our semester-wise results in the form of a pdf, which looks like this:
 
 ![PDF Screenshot](./screenshots/result-pdf.png)
 
 
-There's Roll Number-wise, Subject-wise result of each and every student studying in a branch (CSE for instance) in the entire university (that's right, not just one college). Neither total marks nor percentage is displayed, let alone a ranklist. Even the subject names are not shown corresponding to their marks.
+There's Roll Number-wise, Subject-wise result of each and every student studying in a branch (CSE for instance) in the entire university (that's right, not just one college). Neither total marks nor percentage is displayed, let alone a ranklist. Even the subject names are not shown corresponding to the marks.
 
 
 So this is just a minimalist result website I made for our college students, in which they can see their class-rank, percentage and subject-wise marks.
@@ -35,8 +35,18 @@ So this is just a minimalist result website I made for our college students, in 
 
 - **STEP 6:** Showed it to my dad, who was like, "Working vagera sab theek hai, dikhne me achi ni hai. Aur ha, ek counter laga jisse pata lage ki kitne logo ne site visit ki hai.". So I added a hit counter, some Bootstrap, made it responsive, changed the default font and basically made it look a little professional. Which I ended up being appreciated a lot for. So, Thanks Dad.
 
-- **STEP 7:** Texted my juniors and friends to directly call me as soon as results are out, and configured Jimmy enough, so that it'd not take me more than 5 mins to get the results up and running.
+- **STEP 7:** Texted my juniors and friends to directly call me as soon as results are out, and configured Jimmy enough, so that it'd not take me more than 5 mins to get the it up and running, once the results were out.
 
-- **STEP 8:** As soon as the results got out, within 5 minutes the web-app was up and running at http://msitranklist.surge.sh . Then there was publicity, I had to tell everyone in the college that they can find their, subjectwise-result, percentage, class-rank at this website. So I texted everyone I knew even remotely with a line that said "Please post this in your class group as well, thanks". Big thanks ❤️ to the brilliant friends I have who even posted stories about this.
+- **STEP 8:** As soon as the results got out, within 5 minutes the web-app was up and running at http://msitranklist.surge.sh . Then there was publicity, I wanted everyone in the college to know that they can find their, subjectwise-result, percentage, class-rank at this website. So I texted everyone I knew even remotely with a line that said "Please post this in your class group as well, thanks". Big thanks ❤️ to the brilliant friends I have who even posted stories about this.
 
 - **STEP 9:** Sit Back and watch the Hit Counter go crazy for hours. Got 500+ hits within the first two hours. It has gone over 11,000 hits 🎉 and still counting. 
+
+## What now?
+
+Two things basically:
+
+1. I'll try to lauch a version of this every-time the results are out (each time, better than the previous one), so that no-one has to go back to searching their name on the PDF, then sitting with a pen and calculator to calculate their percentage and ask their friends, how much did they get?
+   
+2. Already working on a much bigger version of this web-app, which can cover all engineering colleges under GGSIPU (all branches) and can show the profile of each and every student with the entire history of their marks in all the semesters.
+
+3. **Also, If you would like some features or some changes in this, feel free to raise an issue.**
