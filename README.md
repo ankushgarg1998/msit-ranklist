@@ -49,4 +49,4 @@ Two things basically:
    
 2. Already working on a much bigger version of this web-app, which can cover all engineering colleges under GGSIPU (all branches) and can show the profile of each and every student with the entire history of their marks in all the semesters.
 
-3. **Also, If you would like some features or some changes in this, feel free to raise an issue.**
+**Also, If you would like some features or some changes in this, feel free to raise an issue.**
